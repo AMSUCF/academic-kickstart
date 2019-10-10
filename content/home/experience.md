@@ -38,11 +38,10 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Assistant Professor"
   company = "University of Baltimore"
-  company_url = ""
   location = "Maryland"
   date_start = "2011-08-08"
-  date_end = "2014-05-00"
+  date_end = "2014-05-01"
   description = """Information Arts + Technologies"""
-  
+
 
 +++
