@@ -71,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-This is really just a demo page for Intro to T&T, so there's not much to say.
+This is really just a demo page for Intro to T&T, so there's not much to say. But maybe there will be more soon!
